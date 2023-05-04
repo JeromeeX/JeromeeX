@@ -14,11 +14,11 @@ Sep 2018 - Jul 2022\
 ## Professional Experience
 **Internship**\
 Sep 2021 - May 2022\
-**[_Rao's Lab_, IDG/McGovern Institute, Peking University](https://mgv.pku.edu.cn/english/people/lbd/PrincipalInvestigator1/360555.htm)**, Beijing, PRC
+**[_Rao Lab_, IDG/McGovern Institute, Peking University](https://mgv.pku.edu.cn/english/people/lbd/PrincipalInvestigator1/360555.htm)**, Beijing, PRC
 
 **Internship**\
 Sep 2020 - Sep 2021\
-**[_Rao's Lab_, Chinese Institute for Brain Research (CIBR)](https://www.cibr.ac.cn/science/team/detail/401?language=en)**, Beijing, PRC
+**[_Rao Lab_, Chinese Institute for Brain Research (CIBR)](https://www.cibr.ac.cn/science/team/detail/401?language=en)**, Beijing, PRC
 
 **Internship**\
 Jul 2019 - Aug 2019\
