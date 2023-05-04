@@ -2,7 +2,7 @@ A current MS/Ph.D. student in [King Abdullah University of Science and Technolog
 
 ## (Research) Interests
 Molecular Biology, Genetics, Biochemistry\
-Deconstructionism, Marxist Feminism, Symptomatic Reading, Psychoanalysis
+Deconstructionism, Marxist Feminism, Symptomatic Reading, (Lacanian) Psychoanalysis
 
 ## Educational Experience
 **MSc./Ph.D.**\
