@@ -1,5 +1,9 @@
 A current MS/Ph.D. student in [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/) with extensive experience in molecular genetics and biochemistry, focusing on molecular genetics, synthetic biology, and genomics.
 
+## (Research) Interests
+Molecular Biology, Genetics, Biochemistry\
+Deconstructionism, Marxist Feminism, Symptomatic Reading, Psychoanalysis
+
 ## Educational Experience
 **MSc./Ph.D.**\
 _Bioscience_\
