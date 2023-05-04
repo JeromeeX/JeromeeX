@@ -25,4 +25,8 @@ Jul 2019 - Aug 2019\
 **[Institute of Zoology, Chinese Academy of Sciences](http://english.ioz.cas.cn/)**, Beijing, PRC\
 **[Ludong University](https://www.ldu.edu.cn/)**, Yantai, PRC
 
+## Preferred Languages
+Natural Languages: Chinese (Mandarin, Shanghainese, Cantonese), English, French, and Turkish\
+Other Languages: Python, LaTeX
+
 ## Publications
