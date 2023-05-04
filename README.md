@@ -1,4 +1,4 @@
-A current MS/Ph.D. student in _King Abdullah University of Science and Technology (KAUST)_ with extensive experience in molecular genetics and biochemistry, focusing on molecular genetics, synthetic biology, and genomics.
+A current MS/Ph.D. student with extensive experience in molecular genetics and biochemistry, focusing on molecular genetics, synthetic biology, and genomics.
 
 ## Educational Experience
 **MSc./Ph.D.**\
