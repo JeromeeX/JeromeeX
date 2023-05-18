@@ -1,4 +1,4 @@
-A current MS/Ph.D. student with extensive experience in molecular genetics and biochemistry, focusing on molecular genetics, synthetic biology, and genomics. Apart from biological research, Jérôme is diving into psychoanalysis, marxist feminism, and deconstructionism.
+A current MS/Ph.D. student with extensive experience in molecular genetics and biochemistry, focusing on molecular genetics, synthetic biology, and genomics.
 
 ## Educational Experience
 **MSc./Ph.D.**\
