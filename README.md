@@ -3,13 +3,13 @@ A current MS/Ph.D. student with experience in molecular genetics and biochemistr
 ## Educational Experience
 **MSc./Ph.D.**, _Bioscience_ (GPA: 3.93, Supervisor: [Christian Frøkjær-Jensen](mailto:christianfj@gmail.com))\
 Aug 2022 - Now\
-**King Abdullah University of Science and Technology**, Thuwal, KSA\
-[_Genomics_](mailto:simon.krattinger@kaust.edu.sa) (A), [_Introduction to Nanopore Sequencing_](mailto:mo.li@kaust.edu.sa) (A), [_Fundamentals of Neuroscience_](mailto:leena.ibrahim@kaust.edu.sa) (A-, >90% in exams)
+[_Genomics_](mailto:simon.krattinger@kaust.edu.sa) (A), [_Introduction to Nanopore Sequencing_](mailto:mo.li@kaust.edu.sa) (A), [_Fundamentals of Neuroscience_](mailto:leena.ibrahim@kaust.edu.sa) (A-, >90% in exams)\
+**King Abdullah University of Science and Technology**, Thuwal, KSA
 
 **BSc.**, _Biological Science of Honors Program_ (GPA: 3.51, Supervisor: [Huiqiang Lou](mailto:lou@cau.edu.cn))\
 Sep 2018 - Jul 2022\
-**China Agricultural University**, Beijing, PRC\
-_Biochemistry_ (A, A-), _Physical Chemsitry_ (A+), _Molecular Biology_ (A), _Genetics_ (A), _Cell Biology_ (A), _Microbial Physiology_ (A), _Probability and Statistics_ (A), _Bioinformatics_ (A)
+_Biochemistry_ (A, A-), _Physical Chemsitry_ (A+), _Molecular Biology_ (A), _Genetics_ (A), _Cell Biology_ (A), _Microbial Physiology_ (A), _Probability and Statistics_ (A), _Bioinformatics_ (A)\
+**China Agricultural University**, Beijing, PRC
 
 ## Professional Experience
 **Internship**\
