@@ -1,4 +1,4 @@
-A current MS/Ph.D. student with experience in molecular genetics and biochemistry, focusing on molecular genetics, synthetic biology, and genomics.
+An MS/Ph.D. student with experience in molecular genetics and biochemistry, focusing on molecular genetics, synthetic biology, and genomics. Currently developing a novel **target-enrichment sequencing strategy**, contributed to **standardized _C. elegans_ neuron-specific enhancer/promoter pool** in [WormBuilder](https://wormbuilder.org/transgenebuilder/), also co-developed wormdigester, a tool illustrating genomic fragment length distribution after digestion by common endonucleases.
 
 ## Educational Experience
 **MSc./Ph.D.**, _Bioscience_ (GPA: 3.93, Supervisor: [Christian Frøkjær-Jensen](mailto:christianfj@gmail.com))\
