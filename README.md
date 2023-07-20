@@ -2,12 +2,12 @@ A current MS/Ph.D. student with experience in molecular genetics and biochemistr
 
 ## Educational Experience
 **MSc./Ph.D.**\
-_Bioscience_ (Supervisor: [Christian Frøkjær-Jensen](https://www.kaust.edu.sa/en/study/faculty/christian-jensen))\
+_Bioscience (GPA: 3.93)_ (Supervisor: [Christian Frøkjær-Jensen](https://www.kaust.edu.sa/en/study/faculty/christian-jensen))\
 Aug 2022 - Now\
 **King Abdullah University of Science and Technology**, Thuwal, KSA
 
-**BSc. (Hons)**\
-_Biological Science_ (Supervisor: [Huiqiang Lou](https://cbs.cau.edu.cn/art/2018/9/18/art_31836_586435.html))\
+**BSc.**\
+_Biological Science of Honors Program (Final GPA: 3.51)_ (Supervisor: [Huiqiang Lou](https://cbs.cau.edu.cn/art/2018/9/18/art_31836_586435.html))\
 Sep 2018 - Jul 2022\
 **China Agricultural University**, Beijing, PRC
 
