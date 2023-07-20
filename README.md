@@ -8,7 +8,7 @@ Aug 2022 - Now\
 
 **BSc.**, _Biological Science of Honors Program_ (GPA: 3.51, Supervisor: [Huiqiang Lou](mailto:lou@cau.edu.cn))\
 Sep 2018 - Jul 2022\
-_Biochemistry_ (A, A-), _Physical Chemsitry_ (A+), _Molecular Biology_ (A), _Genetics_ (A), _Cell Biology_ (A), _Microbial Physiology_ (A), _Probability and Statistics_ (A), _Bioinformatics_ (A)\
+_Biochemistry_ (A, A-), _Physical Chemistry_ (A+), _Molecular Biology_ (A), _Genetics_ (A), _Cell Biology_ (A), _Microbial Physiology_ (A), _Probability and Statistics_ (A), _Bioinformatics_ (A)\
 **China Agricultural University**, Beijing, PRC
 
 ## Professional Experience
