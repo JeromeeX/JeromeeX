@@ -15,7 +15,7 @@ _Biochemistry_ (A, A-), _Physical Chemistry_ (A+), _Molecular Biology_ (A), _Gen
 **Internship**\
 Sep 2021 - May 2022\
 **[_Rao Lab_, IDG/McGovern Institute, Peking University](https://mgv.pku.edu.cn/english/people/lbd/PrincipalInvestigator1/360555.htm)**, Beijing, PRC\
-Focusing on the development of a novel gene-editing tool based on Prime Editing in _Drosophila melanogaster_ neurons.
+Focusing on Prime Editing modification and adapting it in _Drosophila melanogaster_ neurons.
 
 **Internship**\
 Sep 2020 - Sep 2021\
