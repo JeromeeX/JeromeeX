@@ -1,14 +1,12 @@
 An MS/Ph.D. student with experience in biochemistry and molecular genetics in _Drosophila melanogaster_, now focusing on synthetic biology and genomics in _C. elegans_.
 
 ## Educational Experience
-**MSc./Ph.D.**, _Bioscience_ (GPA: 3.93, Supervisor: [Christian Frøkjær-Jensen](mailto:christianfj@gmail.com))\
+**MSc./Ph.D.**, _Bioscience_ (Supervisor: [Christian Frøkjær-Jensen](mailto:christianfj@gmail.com))\
 Aug 2022 - Now\
-[_Genomics_](mailto:simon.krattinger@kaust.edu.sa) (A), [_Introduction to Nanopore Sequencing_](mailto:mo.li@kaust.edu.sa) (A), [_Fundamentals of Neuroscience_](mailto:leena.ibrahim@kaust.edu.sa) (A-, >90% in exams)\
 **King Abdullah University of Science and Technology**, Thuwal, KSA
 
-**BSc.**, _Biological Science of Honors Program_ (GPA: 3.51, Supervisor: [Huiqiang Lou](mailto:lou@cau.edu.cn))\
+**BSc.**, _Biological Science of Honors Program_ (Supervisor: [Huiqiang Lou](mailto:lou@cau.edu.cn))\
 Sep 2018 - Jul 2022\
-_Biochemistry_ (A, A-), _Physical Chemistry_ (A+), _Molecular Biology_ (A), _Genetics_ (A), _Cell Biology_ (A), _Microbial Physiology_ (A), _Probability and Statistics_ (A), _Bioinformatics_ (A)\
 **China Agricultural University**, Beijing, PRC
 
 ## Professional Experience
