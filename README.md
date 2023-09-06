@@ -27,7 +27,7 @@ Jul 2019 - Aug 2019\
 Focusing on taxonomy revision for _Pinus_ genus in Mount Dongling (东灵山), Beijing and _Gaetice_ genus in Yantai, Shandong
 
 ## Preferred Languages
-Natural Languages: Chinese (Mandarin, Shanghainese, Cantonese), English, French, and Turkish\
+Natural Languages: Mandarin, Shanghainese, Cantonese, English, French, and Turkish\
 Other Languages: Python, LaTeX
 
 ## Publications
