@@ -1,7 +1,7 @@
-An MS/Ph.D. student with experience in biochemistry and molecular genetics in _Drosophila melanogaster_, now focusing on synthetic biology and genomics in _C. elegans_.
+A master student with experience in biochemistry and molecular genetics in _Drosophila melanogaster_, now focusing on synthetic biology and genomics in _C. elegans_.
 
 ## Educational Experience
-**MSc./Ph.D.**, _Bioscience_ (Supervisor: [Christian Frøkjær-Jensen](mailto:christianfj@gmail.com))\
+**MSc.**, _Bioscience_ (Supervisor: [Christian Frøkjær-Jensen](mailto:christianfj@gmail.com))\
 Aug 2022 - Now\
 **King Abdullah University of Science and Technology**, Thuwal, KSA
 
