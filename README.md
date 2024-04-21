@@ -31,3 +31,4 @@ Natural Languages: Mandarin, Shanghainese, Cantonese, English, French, and Turki
 Other Languages: Python, LaTeX
 
 ## Publications
+Qian, X; AlHarbi, S; Frøkjær-Jensen, C (2024). Characterizing a standardized BioPart for BAG-specific expression in <i>C. elegans</i>. microPublication Biology. <a href="https://doi.org/10.17912/micropub.biology.001150" target="_blank" rel="noopener noreferrer">10.17912/micropub.biology.001150</a>.
