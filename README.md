@@ -2,7 +2,7 @@ A master student with experience in biochemistry and molecular genetics in _Dros
 
 ## Educational Experience
 **MSc.**, _Bioscience_ (Supervisor: [Christian Frøkjær-Jensen](mailto:christianfj@gmail.com))\
-Aug 2022 - Now\
+Aug 2022 - May 2024\
 **King Abdullah University of Science and Technology**, Thuwal, KSA
 
 **BSc.**, _Biological Science of Honors Program_ (Supervisor: [Huiqiang Lou](mailto:lou@cau.edu.cn))\
@@ -27,7 +27,7 @@ Jul 2019 - Aug 2019\
 Focusing on taxonomy revision for _Pinus_ genus in Mount Dongling (东灵山), Beijing and _Gaetice_ genus in Yantai, Shandong
 
 ## Preferred Languages
-Natural Languages: Mandarin, Shanghainese, Cantonese, English, French, and Turkish\
+Natural Languages: Mandarin, Shanghainese, Cantonese, English, and French\
 Other Languages: Python, LaTeX
 
 ## Publications
