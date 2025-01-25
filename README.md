@@ -1,4 +1,4 @@
-A master student with experience in biochemistry and molecular genetics in _Drosophila melanogaster_, now focusing on synthetic biology and genomics in _C. elegans_.
+An master graduate with experience in synthetic biology, genomics, and molecular genetics in _Drosophila melanogaster_ and _C. elegans_, currently a full-time geologist conducting mineral exploration and exploitation in especially Sub-Saharan countries.
 
 ## Educational Experience
 **MSc.**, _Bioscience_ (Supervisor: [Christian Frøkjær-Jensen](mailto:christianfj@gmail.com))\
